@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(225, 142, 240);
+}
+
+.converter-container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 16px;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
